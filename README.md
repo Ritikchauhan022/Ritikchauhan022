@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ritikchauhan022/Ritikchauhan022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ritik Chauhan**, a Frontend Developer passionate about building beautiful and responsive web applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- React.js, Firebase
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **FilmyVerse** 🎬 – A movie listing website using React + Firebase.
+- More projects coming soon...
+
+## 📫 Connect with me
+- 📧 Email: ritikkumar68@gmail.com
+- 🌐 Portfolio: (coming soon...)
+
+---
+
+_Thanks for visiting my GitHub profile! 😊_
