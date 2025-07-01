@@ -12,7 +12,7 @@ I'm **Ritik Chauhan**, a Frontend Developer passionate about building beautiful 
 - More projects coming soon...
 
 ## 📫 Connect with me
-- 📧 Email: ritikkumar68@gmail.com
+- 📧 Email: ritikkuamr68@gmail.com
 - 🌐 Portfolio: (coming soon...)
 
 ---
